@@ -1,0 +1,151 @@
+-------- Plugin Loading Log ------------
+
+Loading from root path: C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\en_US\
+Clearing the plugin cache from the registry
+
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Scanning C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\en_US and sub-directories
+
+Loading from root path: C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\
+Clearing the plugin cache from the registry
+
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Scanning C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common and sub-directories
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ExporterMP3.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ExporterMPEG4.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ExporterMPEGPreview.prm
+Loading from disk...
+This plugin was recognized by loader d3092dcf-904a-4a97-b4ca-66aed7540d57.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterAIEPS.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterAiff.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterARRIRAW.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterASND.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterAVI.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterBarsAndTone.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterDirectShow.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterDPX.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterFastMPEG.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterFLV.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterJPEG.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterMP3.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterMPEG.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterMultiStill.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterP2.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterPhotoshopProxy.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterPNG.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterRED.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterTarga.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterTiff.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterWave.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterWindowsMedia.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterXDCAMEX.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterXDCAMHD.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\AsioWdm.dll
+Loading from disk...
+No loaders recognized this plugin, so the plugin is set to Ignore.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\AEFilterCrop.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\AEFilterGaussianBlur.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\Motion.aex
+Loading from disk...
+This plugin was recognized by loader 9ee18075-33c9-482a-b1a3-f2ab007a5a07.
+
+Loading C:\Program Files (x86)\Adobe\Adobe Media Encoder CS6\Plug-ins\Common\ImporterQuickTime.prm
+Loading from disk...
+This plugin was recognized by loader ba1058cd-0007-44e4-bf1a-0ef51307b979.
+
+Loading from root path: C:\Program Files (x86)\Adobe\Common\Plug-ins\CS6\MediaCore
+Clearing the plugin cache from the registry
+
+Scanning for the following file types: *.prmp, *.prm, *.dll, *.aex, *.8bf
+
+Scanning C:\Program Files (x86)\Adobe\Common\Plug-ins\CS6\MediaCore and sub-directories
+
